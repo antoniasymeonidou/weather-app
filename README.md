@@ -1,4 +1,4 @@
-# Weather App
+# Weather App ☁️ 🌩️ ☀️
 
 This is a weather forecasting application, using React.
 
@@ -31,4 +31,4 @@ This is a weather forecasting application, using React.
 
 **Author**
 
-Antonia Symeonidou
+* **Antonia Symeonidou** - [Nanou](https://github.com/antoniasymeonidou)
