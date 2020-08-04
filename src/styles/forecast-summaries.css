@@ -1,0 +1,12 @@
+.forecast-summaries {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+  @media screen and (max-width: 768px) {
+    .forecast-summaries {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
