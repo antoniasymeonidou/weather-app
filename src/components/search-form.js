@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import "../styles/search-form.css";
 
 const SearchForm = (props) => {
   const handleInputChange = (event) => {

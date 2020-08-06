@@ -1,0 +1,8 @@
+ 
+@media screen and (max-width: 768px) {
+    .search-form {
+      text-align: center;
+      border-color: blueviolet;
+      border-width: 30px;
+    }
+  }
