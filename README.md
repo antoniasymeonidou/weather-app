@@ -1,8 +1,12 @@
 # Weather App ☁️ 🌩️ ☀️
 
-This is a weather forecasting application, using React.
+This is a 5 day weather forecasting application, using React. The application allows the user to search for the weather within UK.
 
 ![weather-app](https://i.imgur.com/XIhXEzH.png)
+
+**Technologies**
+
+- React
 
 **Built Using:**
 
@@ -15,6 +19,8 @@ This is a weather forecasting application, using React.
 - Install Dependencies
 - Move into directory and type: `npm install`
 - From the directory and type: `npm start`
+    Runs the app in the development mode.
+    Open http://localhost:3000 to view it in the browser.
 
 ## Contributing
 
